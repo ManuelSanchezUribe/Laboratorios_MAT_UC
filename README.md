@@ -2,7 +2,15 @@
 Laboratorios Computacionales, Cursos Basicos de Ingenieria 
 
 ## Calculo 1:
-| Laboratorios  | Contenidos |
-|:------------- |:---------- |
-| 1             |            |
-| 2             |            |
+| Laboratorio  | Titulo | Contenidos  |
+|:------------:|:------ | :---------- |
+| 1            |        |             |
+| 2            |        |             |
+| 3            |        |             |
+| 4            |        |             |
+| 5            |        |             |
+| 6            |        |             |
+| 7            |        |             |
+| 8            |        |             |
+| 9            |        |             |
+| 10           |        |             |

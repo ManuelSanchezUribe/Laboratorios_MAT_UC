@@ -14,7 +14,7 @@ Para estos laboratorios necesitarás Python 3.x y las librerías científicas `n
 | :--- | :--- | :--- |
 | **1. Local (Recomendado)** | Instalación en tu propio computador. | Abre tu terminal y ejecuta:<br>`pip install numpy scipy matplotlib jupyterlab`<br>Luego inicia el entorno con:<br>`jupyter notebook` o  `jupyter lab`|
 | **2. Google Colab** | Entorno en la nube (no requiere instalación). | Sube este archivo `.ipynb` a tu Google Drive y ábrelo directamente con Google Colab. Las librerías ya vienen preinstaladas. |
-| **3. Binder** | Entorno web interactivo y temporal. | Haz clic en el botón de Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MAT2605_UC_labs/main?urlpath=lab/tree/README.md). <br>**Importante:** Descarga tu notebook (`File > Download`) antes de cerrar la pestaña para no perder tus respuestas. |
+| **3. Binder** | Entorno web interactivo y temporal. | Haz clic en el botón de Binder [![Binder](). <br>**Importante:** Descarga tu notebook (`File > Download`) antes de cerrar la pestaña para no perder tus respuestas. |
 
 
 

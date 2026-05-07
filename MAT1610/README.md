@@ -20,7 +20,7 @@ Para estos laboratorios necesitarás Python 3.x y las librerías científicas `n
 
 ## 📅 Calendario de Sesiones
 
-A continuación se detalla la planificación del primer semestre de 2026 (04 de Marzo - 26 de Junio).
+A continuación se detalla la planificación del XXXX semestre de 20XX (XX de XX - XX de XXXX).
 
 | Semana | Fecha | Tópico / Actividad | Enlace al Material |
 | :--- | :--- | :--- | :--- |

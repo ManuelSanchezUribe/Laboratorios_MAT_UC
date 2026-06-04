@@ -1,4 +1,4 @@
-# MAT2605 - Cálculo I | Laboratorios Computacionales
+# MAT1610 - Cálculo I | Laboratorios Computacionales
 
 Bienvenido al repositorio oficial de los laboratorios del curso **MAT1610 Cálculo I**. Aquí encontrarás las guías, *notebooks* (Jupyter) y códigos fuente necesarios para las sesiones prácticas del semestre.
 
@@ -27,14 +27,14 @@ A continuación se detalla la planificación del XXXX semestre de 20XX (XX de XX
 | **Lab 00** | XX de XXXX | Introducci&oacute;n a Jupyter Notebooks | [Laboratorio 00](./Laboratorio_00/)|
 | **Lab 01** | XX de XXXX | Funciones   | [Laboratorio 01](./Laboratorio_01/) |
 | **Lab 02** | XX de XXXX | L&iacute;mite | [Laboratorio 02](./Laboratorio_02/) |
-| **Lab 03** | XX de XXXX | Continuidad  | [Laboratorio 03](./Laboratorio03/) |
+| **Lab 03** | XX de XXXX | Continuidad  | [Laboratorio 03](./Laboratorio_03/) |
 | **Lab 04** | XX de XXXX | Derivadas | [Laboratorio 04](./Laboratorio_04/) |
 | **Lab 05** | XX de XXXX | Raz&oacute;n de Cambio | [Laboratorio 05](./Laboratorio_05/) |
 | **Lab 06** | XX de XXXX | Recta Tangente y Aproximaci&oacute;n Local |  [Laboratorio 06](./Laboratorio_06/) |
 | **Lab 07** | XX de XXXX | An&aacute;lisis Cualitativo de Funciones |  [Laboratorio 07](./Laboratorio_07/) |
 | **Lab 08** | XX de XXXX | Integral |  [Laboratorio 08](./Laboratorio_08/) |
 | **Lab 09** | XX de XXXX | Teorema Fundamental del C&aacute;lculo |  [Laboratorio 09](./Laboratorio_09/) |
-| **Lab 10** | XX de XXXX | Modelaci&oacute;n Matem&aacutetica |  [Laboratorio 10](./Laboratorio_10/) |
+| **Lab 10** | XX de XXXX | Modelaci&oacute;n Matem&aacute;tica |  [Laboratorio 10](./Laboratorio_10/) |
 
 **Instrucciones de instalación vía `pip`:**
 Abre tu terminal (o símbolo del sistema en Windows) y ejecuta el siguiente comando:

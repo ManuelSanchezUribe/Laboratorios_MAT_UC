@@ -1,0 +1,20 @@
+title: MAT1610 - Laboratorios de Cálculo I
+author: Manuel A. Sanchez
+
+# Configuración de ejecución
+execute:
+  execute_notebooks: off  # Usa los resultados ya guardados en tus celdas
+parse:
+  exclude_patterns: [".venv", "env", "venv", ".pytest_cache", ".ipynb_checkpoints"]
+
+# # Botones de interactividad (ajusta con tus datos de GitHub)
+# repository:
+#   url: https://github.com/ManuelSanchezUribe/Laboratorios_MAT_UC
+#   path_to_book: MAT1610
+#   branch: main
+
+# launch_buttons:
+#   binderhub_url: "https://mybinder.org"
+#   colab_url: "https://colab.research.google.com"
+#   notebook_interface: "jupyterlab"
+#   thebe: true

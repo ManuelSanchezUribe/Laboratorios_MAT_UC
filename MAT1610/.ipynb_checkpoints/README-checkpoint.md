@@ -1,10 +1,16 @@
-# MAT1610 - Cálculo I | Laboratorios Computacionales
+# MAT1610 - Cálculo I | Laboratorios Computacionales 
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 Bienvenido al repositorio oficial de los laboratorios del curso **MAT1610 Cálculo I**. Aquí encontrarás las guías, *notebooks* (Jupyter/Google Colab) y códigos fuente necesarios para las sesiones prácticas del semestre.
- 
-**Lugar:**  Online
 
-## 🛠 Requisitos y Entornos de Trabajo
+**Lugar:** Online
+
+---
+
+##  Requisitos y Entornos de Trabajo
 
 Para estos laboratorios necesitarás Python 3.x y las librerías científicas `numpy`, `scipy` y `matplotlib`. Puedes elegir cualquiera de las siguientes tres opciones para trabajar:
 
@@ -15,7 +21,7 @@ Para estos laboratorios necesitarás Python 3.x y las librerías científicas `n
 
 
 
-## 📅 Calendario de Sesiones
+##  Calendario de Sesiones
 
 A continuación se detalla la planificación de los laboratorios. 
 

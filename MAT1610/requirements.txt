@@ -1,9 +1,0 @@
-# Librerías base para los laboratorios de Cálculo I
-sympy
-numpy
-pandas
-matplotlib
-
-# Herramientas necesarias para compilar y publicar el libro
-jupyter-book
-ghp-import
